@@ -2,7 +2,7 @@ name: CI/CD Pipeline for holaMundoMultilenguje
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   test:
